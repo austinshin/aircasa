@@ -72,6 +72,7 @@ export default class Navigation extends React.Component {
                     <NavLink style={styles.navText}>Host</NavLink>
                   </Link>
                 </NavItem>
+
                 <NavItem>
                   <Link to="/bookings">
 <<<<<<< HEAD
@@ -83,8 +84,11 @@ export default class Navigation extends React.Component {
                   </Link>
                 </NavItem>
                 <NavItem>
+<<<<<<< HEAD
 >>>>>>> (bug) fix double profile
                 <NavItem>
+=======
+>>>>>>> bug fix
                   <Link to="profile">
                     <NavLink style={styles.navText}>Profile</NavLink>
                   </Link>
