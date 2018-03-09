@@ -1,6 +1,6 @@
 # aircasa
 
-> Pithy project description
+> Airbnb Clone Web Application
 
 ## Team
 
@@ -21,7 +21,7 @@
 
 ## Usage
 
-> Some usage instructions
+> aircasa.herokuapp.com
 
 ## Requirements
 
@@ -36,10 +36,6 @@ From within the root directory:
 ```sh
 npm install
 ```
-
-### Roadmap
-
-View the project roadmap [here](LINK_TO_DOC)
 
 ## Contributing
 
